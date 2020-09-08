@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  text-align: left;
+  margin: 10vh 20vw;
 }
 
 .App-logo {
@@ -36,3 +37,16 @@
     transform: rotate(360deg);
   }
 }
+
+/* .navigation {
+  font-weight: bold;
+  padding: 10px;
+  background: #12d3b3;
+}
+.navigation li{
+  list-style: none;
+}
+.navigation li a{
+  text-decoration: none;
+  color: white;
+} */

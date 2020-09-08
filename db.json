@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "userId": "rghweytegdg",
+      "title": "Dark",
+      "body": "A confusing Netflix series",
+      "id": 3
+    },
+    {
+      "userId": "rghweytegdg",
+      "title": "The Umbrella Academy",
+      "body": "Super hero tv series",
+      "id": 4
+    },
+    {
+      "userId": "23424",
+      "title": "Mandalorian",
+      "body": "Spin off Star Wars tv series",
+      "id": 5
+    },
+    {
+      "title": "Fast and Furious 8",
+      "body": "gun slinger and lixury car movie",
+      "id": 8
+    },
+    {
+      "title": "Spider-man",
+      "body": "gun slinger and lixury car movie",
+      "id": 10
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
